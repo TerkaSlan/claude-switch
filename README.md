@@ -5,9 +5,7 @@ Run two Claude Code profiles side-by-side on one machine — e.g. a custom LLM g
 - `claude` → primary / custom gateway profile (default)
 - `claude-ant` → personal Anthropic profile
 
-<video src="demo.mp4" controls width="100%"></video>
-
-> If the inline player above doesn't render in your GitHub view, open [demo.mp4](./demo.mp4) directly.
+![Demo: switching between two Claude Code profiles](demo.gif)
 
 ---
 
